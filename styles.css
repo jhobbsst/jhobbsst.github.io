@@ -1,0 +1,35 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+h1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 3.5em;
+    color: #e0218a;
+}
+.header {
+    max-width: 100%;
+    text-align: center;
+}
+.column {
+    float: left;
+    max-width: 30%;
+    padding: 15px;
+    padding-left: 400px;
+}
+.imgcolumn {
+    float: left;
+    max-width: 20%;
+}
+.image {
+    padding-bottom: 50px;
+}
+.violin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.me {
+    text-align: center;
+}
+.clear {
+  clear: both;
+}
